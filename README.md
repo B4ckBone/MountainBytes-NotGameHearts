@@ -1,0 +1,23 @@
+My Demo created in the Demomaking Workshop at MountainBytes 2024.
+Just some p5js fun.
+
+NFO Contents:
+
+B4ckBOne presents:                                                  !gameHearts
+Year:......................................................................2024
+Playtime:..................................................................1m40
+REL. SiZE................................................................4.2 MB
+REL. DaTE...........................................................18 Feb 2024
+SOURCE.........................................................javascript..p5js
+Audio:..................................................MB24_Cables_Pool_01.mp3
+Run Demo Instructions:.........................................................
+FullHD - 1080p, 1920x1080 pixels Demo Instructions:............................
+Open terminal change directory to extracted demo and run:......................
+chromium --user-data-dir="~" --disable-web-security start.html.................
+Then close the warning, press F11, press F5 and ...............................
+click in the browser window to start audio. ...................................
+Gruesse an U2SO Moovie & alle bei MountainBytes 2024!..........................
+
+Rendered Demo on Youtube. 
+Rendering was done on a Potato Laoptop Lenovo x280
+[![Rendered Demo on Youtube. Rendering was done on a Potato Laoptop Lenovo x280](https://img.youtube.com/vi/WyeRF_lv0Kk/0.jpg)](https://www.youtube.com/watch?v=WyeRF_lv0Kk)
